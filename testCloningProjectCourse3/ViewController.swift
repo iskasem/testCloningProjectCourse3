@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
    
-    print ("some code changes again using branch")
+    print ("some code changes again using branching")
     }
 
     override func didReceiveMemoryWarning() {
